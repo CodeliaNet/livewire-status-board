@@ -1,11 +1,11 @@
 {
-    "name": "asantibanez/livewire-status-board",
+    "name": "CodeliaNet/livewire-status-board",
     "description": "Livewire component to show models/data according to its current status",
     "keywords": [
         "asantibanez",
         "livewire-status-board"
     ],
-    "homepage": "https://github.com/asantibanez/livewire-status-board",
+    "homepage": "https://github.com/CodeliaNet/livewire-status-board",
     "license": "MIT",
     "type": "library",
     "authors": [
